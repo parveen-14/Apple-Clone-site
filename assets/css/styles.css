@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #000!important;
+  opacity: 0.8;
+}
+
+.fab.fa-apple {
+  font-size: 21px;
+  line-height: 0;
+}
+
+.navbar .nav-link {
+  color: #fff;
+}
+
