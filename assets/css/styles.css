@@ -12,3 +12,36 @@
   color: #fff;
 }
 
+.product {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.product h2 {
+  font-size: 27px;
+  font-weight: 400;
+}
+
+.product h1 {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.product .h1 {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.product .links {
+  font-size: 21px;
+  margin-bottom: 81px;
+}
+
+.product .links .learn-more {
+  margin-right: 20px;
+}
+
+.product.iphone-x {
+  background-color: #f9f9f9;
+}
+
